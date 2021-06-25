@@ -7,7 +7,7 @@
       <p><b>邮箱：2051460062@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">   
+      <img src="/a.jpg" width="100%">   
     </td>
   </tr>
 </table>
