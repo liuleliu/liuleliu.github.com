@@ -17,7 +17,7 @@
 <h3>主修课程</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; java,python,c,c++,软件工程,数据库原理,操作系统原理</p>
 <h3>专业技能</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; javaweb开发，简单的安卓开发，python编程，面向对象程序设计，基本的数据结构与算法，设计模式</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; javaweb开发，简单的安卓开发，python编程，面向对象程序设计</p>
 <h3>文件证书</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 《软件设计师证》《英语四级》</p>
 <h3>主修课程</h3>
