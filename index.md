@@ -7,7 +7,6 @@
       <br> 
       <p><b>石家庄铁道大学信息科学与技术学院</b></p>
       <br> 
-      <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
       <p><b>邮箱：2051460062@qq.com</b></p>
       <br> 
     </td>
